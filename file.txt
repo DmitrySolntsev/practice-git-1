@@ -1,4 +1,1 @@
-My first line in project
-Paris is the capital of France
-Another line
-Another modified line
+MGUPI is awesome
